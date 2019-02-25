@@ -1,2 +1,2 @@
-# erp-system-sor-college
+# erp-system-for-college
 this is my new project on php
